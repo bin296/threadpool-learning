@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+threadpool-learning-parent/src/
+threadpool-learning-biz/src/
+threadpool-learning-biz/target/
+threadpool-learning-support/src/
+threadpool-learning-support/target/
+threadpool-learning-test/src/
+threadpool-learning-test/target/
