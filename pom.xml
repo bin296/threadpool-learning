@@ -14,4 +14,14 @@
         <module>threadpool-learning-test</module>
         <module>threadpool-learning-support</module>
     </modules>
+    <distributionManagement>
+        <repository>
+            <id>${distribution.releases.id}</id>
+            <url>${distribution.releases.url}</url>
+        </repository>
+        <snapshotRepository>
+            <id>${distribution.snapshots.id}</id>
+            <url>${distribution.snapshots.url}</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
